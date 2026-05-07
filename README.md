@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm [Your Name] 
+# 🚀 Hello, I'm [Jesús Zabala] 
 ### 🤖 Full-Stack AI Engineer | Architecting the Future of Intelligent Web Apps
 ---
 
@@ -33,7 +33,7 @@ I bridge the gap between complex AI models and scalable web architectures. My mi
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="www.linkedin.com/in/jesús-zabala-6ab10037a" target="_blank">
+  <a href="https://www.linkedin.com/in/jes%C3%BAs-zabala-6ab10037a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jesusgabrielwg@gmail.com">
@@ -45,5 +45,5 @@ I bridge the gap between complex AI models and scalable web architectures. My mi
 
 <p align="center">
   <i>"Code is poetry, AI is the ink."</i> <br>
-  ⭐️ From **[Your Location]**
+  ⭐️ From **[Venezuela]**
 </p>

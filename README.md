@@ -1,11 +1,5 @@
 # 🚀 Hello, I'm [Your Name] 
 ### 🤖 Full-Stack AI Engineer | Architecting the Future of Intelligent Web Apps
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whygabriel1&show_icons=true&theme=tokyonight&count_private=true" alt="Gabriel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whygabriel1&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
-
 ---
 
 ### ⚡ Quick Byte

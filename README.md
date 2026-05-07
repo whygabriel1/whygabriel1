@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm [Jesús Zabala] 
+# 🚀 Hello, I'm Jesús Zabala
 ### 🤖 Full-Stack AI Engineer | Architecting the Future of Intelligent Web Apps
 ---
 
@@ -45,5 +45,5 @@ I bridge the gap between complex AI models and scalable web architectures. My mi
 
 <p align="center">
   <i>"Code is poetry, AI is the ink."</i> <br>
-  ⭐️ From **[Venezuela]**
+  ⭐️ From **Venezuela** 🇻🇪
 </p>

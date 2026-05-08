@@ -39,6 +39,9 @@ I bridge the gap between complex AI models and scalable web architectures. My mi
   <a href="mailto:jesusgabrielwg@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/whygabriel1/whygabriel1/blob/main/A_Jesus_Zabala_AI_FullStack_v2.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-dots&logoColor=white" alt="Resume" />
+</a>
 </p>
 
 ---
